@@ -10,7 +10,6 @@ import pandas
 import random
 
 
-
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""" 
 - 
 -  class of the neural Network
