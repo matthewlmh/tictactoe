@@ -9,7 +9,6 @@ Created on Wed Apr  6 14:42:35 2022
 import random
 
 
-
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 - 
 -  class of the tictactoe
